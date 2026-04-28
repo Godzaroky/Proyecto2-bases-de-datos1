@@ -92,7 +92,7 @@ CREATE TABLE usuario (
 
 
 -- ============================================================
---  ÍNDICES
+--  ÍNDICES  (justificados)
 -- ============================================================
 
 -- Búsquedas frecuentes de productos por categoría
